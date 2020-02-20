@@ -1,1 +1,3 @@
-# -ip-
+代理IP的IP池
+
+在pycharm中安装parsel模块后即可使用，打开main文件，运行，在can_use中即是可以使用的代理IP，之后自己写爬虫可以使用ip池子里的ip
